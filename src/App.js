@@ -189,7 +189,7 @@ const AppComponent = () => {
       <Header>
         <AppName>
           <RecipeImage src="/react-recipe-finder/hamburger.svg" />
-          F<HeaderName>oo</HeaderName>diesHub
+           C<HeaderName>oo</HeaderName>kb<HeaderName>oo</HeaderName>ks
         </AppName>
         
         <SearchBox>
